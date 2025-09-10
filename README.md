@@ -1,4 +1,4 @@
-# Barbearia do Recruta Zero 🪈✂️
+# Barbearia do Recruta Zero (2025) ✂️
 **Trabalho Prático II — Sistemas Operacionais (IEC584)**  
 
 ## Descrição
